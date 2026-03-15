@@ -1,10 +1,9 @@
-import React from 'react'
-import BreadCrumbs from './Lesson/BreadCrumps'
+import HookForm from "./react-hook-form/HookForm"
 
 const App = () => {
   return (
     <div>
-      <BreadCrumbs/>
+      <HookForm/>
     </div>
   )
 }
